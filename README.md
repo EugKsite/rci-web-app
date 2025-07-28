@@ -1,6 +1,15 @@
-# rci-web-app
 # Reliable Change Index (RCI) Web App
 
-This React-based app helps calculate the Reliable Change Index (RCI) using pre-test and post-test scores, standard deviation, and reliability coefficient.
+This app calculates the Reliable Change Index (RCI) using user-provided test scores, standard deviation, and reliability coefficients. Built with React and Tailwind, and suitable for deployment on Vercel or Netlify.
 
-Built with Vite + React. Designed for NCSS-style outcome evaluations.
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+```
+
+## 🧠 Features
+- RCI, SEM, Sdiff calculations
+- 95% confidence level interpretation
+- Styled UI with tooltips and icons
